@@ -1,0 +1,45 @@
+.login-container {
+  
+    height: 100vh;
+    background-color: #f0f2f5;
+  }
+  
+  /* Style for the login form */
+  .login-form {
+    width: 450px;
+    background: #fff;
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style for the form heading */
+  .login-form h1 {
+    text-align: center;
+    margin-bottom: 24px;
+    color: #081017;
+  }
+  
+  /* Input icons */
+  .site-form-item-icon {
+    color: rgba(0, 0, 0, 0.799);
+  }
+  
+  /* Style for the login button */
+  .login-form-button {
+    width: 100%;
+    background-color: #1890ff;
+    border-color: #1890ff;
+    font-weight: bold;
+    
+  }
+  
+  .login-form-button:hover {
+    background-color: #0f3b7e;
+    border-color: #1c7ea8;
+  }
+  
+  /* Remember me checkbox */
+  .login-form .ant-checkbox-wrapper {
+    font-size: 14px;
+  }
